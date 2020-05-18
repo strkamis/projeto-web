@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2 - Não atualize o git com erros no projeto. Corrijam antes.
 
 - Run the following command to run the JSON server.
-`json-server --watch brq_travel.json`
+`json-server --watch db.json`
 
 - After that you can check your local json file on this URL
 `http://localhost:3000`
@@ -40,6 +40,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Json-server BRQ-Travel
 
 Run npm install -g json-server para instalar o json-server.
-Run json-server --watch brq_travel.json para ativar o servidor com a API Json.
+Run json-server --watch db.json para ativar o servidor com a API Json.
 
 
